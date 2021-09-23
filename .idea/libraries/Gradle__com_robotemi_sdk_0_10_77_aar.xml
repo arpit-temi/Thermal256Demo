@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.robotemi:sdk:0.10.77@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/242bb0ad51ed0d72251316fe89827eb5/transformed/jetified-sdk-0.10.77/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/242bb0ad51ed0d72251316fe89827eb5/transformed/jetified-sdk-0.10.77/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/242bb0ad51ed0d72251316fe89827eb5/transformed/jetified-sdk-0.10.77/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./thermal256/libs/classes.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/thermal256/libs/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
